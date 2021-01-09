@@ -22,4 +22,4 @@
     - Replacing all instances of 'county' with appropriate electoral unit if the electoral districts are not counties.
     ![Code for List and Dictionary references](Resources/listDictionary.png)
     - Updating the row index for the new CSV file if need be to refer to the correct data. 
-    ![Code for Referencing Row Index](Resources/rowList.png)
+    ![Code for Referencing Row Index](Resources/rowLists.png)
