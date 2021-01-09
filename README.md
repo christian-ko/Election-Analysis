@@ -20,7 +20,7 @@
 
 ## Election Audit Summary
 > The script is easily modified to be used for any election, regardless the number of candidates or precinct type. 
-> Modifications allowing for reuse of the script are as follows/:
+> Modifications allowing for reuse of the script are as follows:
 
     - Subbing in the file path for the CSV of data for the designated election and the TXT file to be used to display the results.
 
